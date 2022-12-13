@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\bin\Debug\net6.0\array-class-constructor.exe
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\bin\Debug\net6.0\array-class-constructor.deps.json
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\bin\Debug\net6.0\array-class-constructor.runtimeconfig.json
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\bin\Debug\net6.0\array-class-constructor.dll
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\bin\Debug\net6.0\array-class-constructor.pdb
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.AssemblyInfo.cs
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.dll
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\refint\array-class-constructor.dll
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.pdb
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\array-class-constructor.genruntimeconfig.cache
+C:\Users\HP\Desktop\array-class-constructor\array-class-constructor\array-class-constructor\obj\Debug\net6.0\ref\array-class-constructor.dll
